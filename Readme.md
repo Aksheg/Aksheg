@@ -15,9 +15,8 @@
   </tr>
  </p>
  
- <!-- <p align="center"> <a href="https://github.com/lacegiovanni17/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" /></a> </p> -->
+ <!-- <p align="center"> <a href="https://github.com/lacegiovanni17/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lacegiovanni17" alt="chizobachidike" - 🔭 I’m currently working with Decagon Hq**/></a> </p> -->
 
-- 🔭 I’m currently working with Decagon Hq**
 - 🌱 I work with **Node JS**
 - 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
 - 📫 How to reach me **akindeleoluwasegun01@gmail.com**
